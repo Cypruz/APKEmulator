@@ -5,7 +5,7 @@ Literally an Emulator by Pranav and Steven.
   <div>
   <div>2. Find the languages said APK is coded in
     <div>
-    <div>3. Make sure the APK has Chromebook compatibility or web based applicaiton (can be)
+    <div>3. Make sure it is web based applicaiton (can be)
       <div>
       <div>4. Establish file types that can work on Chromebook
         <div>
