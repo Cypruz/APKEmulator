@@ -1,6 +1,6 @@
 Literally an Emulator by Pranav and Steven.
 
-<strong> PROJECT GOALs </strong>
+<strong> PROJECT GOALS </strong>
 <div>1. Figure out how how APK works
   <div>
   <div>2. Find the languages said APK is coded in
