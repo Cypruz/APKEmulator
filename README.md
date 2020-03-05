@@ -11,3 +11,5 @@ Literally an Emulator by Pranav and Steven.
         <div>
         <div>5. Make sure it can be replicated (COMPLETED)
           <div>
+            <div> Make sure it is coded in languages WE KNOW
+              <div>find other collaborators
